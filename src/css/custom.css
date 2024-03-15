@@ -15,7 +15,7 @@
   --config-node-highlight-text-color: black;
 
   /* EOL Message */
-  --eol-message-background-color: #ff5f5f;
+  --eol-message-background-color: rgb(255, 112, 119);
 }
 
 html[data-theme="dark"] {
@@ -34,7 +34,7 @@ html[data-theme="dark"] {
   --config-node-highlight-text-color: white;
 
   /* EOL Message */
-  --eol-message-background-color: #ab2929;
+  --eol-message-background-color: rgb(92, 15, 18);
 }
 
 .eol-message {
